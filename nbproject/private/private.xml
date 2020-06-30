@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/data/toko_buku/src/database/Koneksi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/buku_controller.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/m_pegawai.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/pegawai_controller.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/getData.java</file>
+            <file>file:/D:/java/data/toko_buku/src/model/transaksi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/model/registrasi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/model/Toko_buku.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/main.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/transaksi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/member_controller.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/reg_member.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/data_buku.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/AllObject.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/m_buku.java</file>
+            <file>file:/D:/java/data/toko_buku/src/view/data_transaksi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/detail_transaksi_controller.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/registrasi_controller.java</file>
+            <file>file:/D:/java/data/toko_buku/src/model/detail_transaksi.java</file>
+            <file>file:/D:/java/data/toko_buku/src/controller/transaksi_controller.java</file>
+        </group>
+    </open-files>
+</project-private>
